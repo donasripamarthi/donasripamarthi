@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello, I'm Donasri
 
-<!--
-**donasripamarthi/donasripamarthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | Java Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science and Engineering student interested in building practical software applications using Java, Artificial Intelligence, and data analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Programming:** Java, Python
+- **Core CS:** Object-Oriented Programming, Data Structures and Algorithms
+- **Databases:** SQL
+- **Areas of Interest:** Software Engineering, Artificial Intelligence, Machine Learning
+
+### Featured Projects
+- **AI Chatbot for College ERP** — A student-support chatbot for attendance, marks, and examination information.
+- **Agentic AI Code Debugging System** — A multi-agent approach to code analysis, debugging, fixing, and validation.
+- **Customer Transaction Analysis** — A data analysis project exploring customer transaction data.
+
+### Currently Learning
+- Java development and problem solving
+- Data Structures and Algorithms
+- Real-world software project development
+- AI and machine learning
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/pamarthidonasri
+- Portfolio Website: Coming soon
